@@ -1,4 +1,4 @@
-## Week 1 Laboratory Activity: Orientation & Building Your Professional Environment
+## Week 1 Building My Professional Environment
 
 ## Student Information
 * **Name:** Carla Mae R. Villafranca
