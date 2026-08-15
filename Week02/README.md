@@ -1,7 +1,3 @@
-# ITEP 414: System Administration and Maintenance
-**Laguna State Polytechnic University**  
-*Province of Laguna*  
-**ISO 9001:2015 Certified | Level I Institutionally Accredited**  
 
 **Prepared by:** Carla Mae R. Villafranca 
 **Submitted to:** John Randolf M. Penaredondo, MIT  
