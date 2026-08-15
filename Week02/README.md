@@ -3,21 +3,21 @@
 *Province of Laguna*  
 **ISO 9001:2015 Certified | Level I Institutionally Accredited**  
 
-**Prepared by:** [Your Name]  
+**Prepared by:** Carla Mae R. Villafranca 
 **Submitted to:** John Randolf M. Penaredondo, MIT  
 **Course & Program:** Bachelor of Science in Information Technology (BSIT)  
 **Project Track:** Week 2 Portfolio Project — Enterprise Infrastructure Planning  
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 Every successful IT infrastructure begins with proper planning. Before purchasing computers, installing servers, configuring networks, or deploying cloud services, a System Administrator must first understand the organization's business requirements and design an infrastructure that supports business operations. 
 
 This project documents the comprehensive, from-scratch technical infrastructure design for a newly established startup company, engineered to mirror a professional proposal ready for executive review.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 By completing this portfolio deployment, the following objectives have been met:
 
 ### Knowledge
@@ -36,7 +36,7 @@ By completing this portfolio deployment, the following objectives have been met:
 
 ---
 
-## 🏢 Company Scenario
+## Company Scenario
 The documentation models the infrastructure blueprint for **LagunaTech Solutions Inc.**, an agile custom software development and digital transformation agency. 
 
 ### Current Baseline Matrix:
@@ -52,7 +52,7 @@ The documentation models the infrastructure blueprint for **LagunaTech Solutions
 
 ---
 
-## 💻 Hardware Inventory Summary
+## Hardware Inventory Summary
 Below is a condensed summary of the procurement hardware mapped to support the 20-seat single-floor cluster.
 
 | Asset ID Group | Hardware Type | Qty | Target Allocation | System Justification |
@@ -67,7 +67,7 @@ Below is a condensed summary of the procurement hardware mapped to support the 2
 
 ---
 
-## 💿 Software Inventory Summary
+## Software Inventory Summary
 Standardized, secure operating environments are managed across all endpoints using the following base configurations:
 
 | Software | Version Core | License Scheme | Enterprise Core Function |
@@ -83,7 +83,7 @@ Standardized, secure operating environments are managed across all endpoints usi
 
 ---
 
-## 🌐 Embedded Network Diagram
+## Embedded Network Diagram
 The structural map below outlines the perimeter defenses and network segments established for the company. The physical layout separates departmental traffic using isolated VLAN policies, controlled by a hardware firewall.
 
 ![LagunaTech Solutions Network Topology](diagrams/network-topology.png)
@@ -92,7 +92,7 @@ The structural map below outlines the perimeter defenses and network segments es
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 The following developer tools, technical frameworks, and design applications were used to create this portfolio plan:
 * **Documentation & Markup:** [Markdown Spec](https://daringfireball.net)
 * **Topology & CAD Modeling:** [Draw.io / Diagrams.net](https://diagrams.net)
@@ -101,14 +101,14 @@ The following developer tools, technical frameworks, and design applications wer
 
 ---
 
-## ⚠️ Challenges Encountered
+## Challenges Encountered
 During the architectural design phase of this enterprise deployment plan, two distinct technical challenges emerged:
 1. **Resource Mapping and Allocation Justification:** Balancing a fixed 20-employee organizational matrix with an accurate hardware and line budget required mapping physical assets cleanly without over-provisioning infrastructure nodes.
 2. **Network Traffic Isolation Security:** Organizing logical access paths using standard Draw.io shapes required deep critical thinking to ensure the Finance department's accounting lanes were isolated while keeping them reachable for IT helpdesk administration.
 
 ---
 
-## 🧠 Reflection
+## Reflection
 Designing this infrastructure plan from scratch highlighted that a system administrator's job is rooted heavily in strategic blueprinting long before any physical equipment is deployed. 
 
 The process taught me to transition away from looking at hardware through a consumer lens, instead looking at it through an operational framework focused on high availability, data redundancy, and robust endpoint defense. Balancing departmental needs against architectural controls helped build the analytical perspective needed to manage business uptime, manage technical debt, and deploy secure enterprise networks.
